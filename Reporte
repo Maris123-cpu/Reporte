@@ -1,0 +1,27 @@
+REPORTE BENEFICIOS DE USO DE VARIABLES ALEATORIAS
+
+Mayor Realismo:
+Las variables aleatorias permiten capturar la incertidumbre y la variabilidad inherente a los sistemas reales, lo que resulta en modelos más precisos y representativos.
+Al seleccionar la distribución de probabilidad adecuada (normal, exponencial, Poisson, etc.), se pueden modelar diferentes tipos de tiempos y eventos.
+
+Mejor Toma de Decisiones:
+La simulación con variables aleatorias permite evaluar el rendimiento del sistema bajo diferentes condiciones y escenarios, lo que facilita la identificación de áreas de mejora y la optimización de recursos.
+Se pueden realizar análisis de sensibilidad para evaluar el impacto de la variabilidad en el rendimiento del sistema.
+
+Análisis de Riesgos:
+La simulación ayuda a identificar y cuantificar los riesgos asociados a la variabilidad de los tiempos, lo que permite desarrollar estrategias de mitigación.
+Se pueden evaluar diferentes estrategias de gestión de riesgos y seleccionar la más adecuada.
+
+Optimización de Recursos:
+Al conocer la distribución de los tiempos, es posible dimensionar de manera más eficiente los recursos necesarios, como personal, equipos e infraestructura.
+Se pueden evitar el sobredimensionamiento y la subutilización de recursos.
+
+Comunicación Efectiva:
+La simulación con variables aleatorias proporciona una herramienta visual e intuitiva para comunicar los resultados del análisis a las partes interesadas.
+Se pueden generar gráficos y tablas que ilustren el comportamiento del sistema y faciliten la toma de decisiones.
+
+CONCLUSIONES
+El uso de variables aleatorias en la simulación de tiempos nos permite crear modelos más realistas y precisos de sistemas complejos. Al incorporar la incertidumbre 
+y la variabilidad inherentes a los procesos reales, podemos tomar mejores decisiones, optimizar recursos y evaluar riesgos de manera más efectiva. 
+En resumen, las variables aleatorias son una herramienta esencial para comprender y mejorar el desempeño de diversos sistemas, desde fábricas hasta hospitales y 
+centros de llamadas.
